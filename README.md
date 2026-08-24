@@ -1,3 +1,5 @@
+# W2D1:
+
 ## Configuration
 
 The solver uses the following configuration:
