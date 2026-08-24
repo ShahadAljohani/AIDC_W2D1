@@ -45,3 +45,5 @@ The largest model by parameter count that fits within the 16 GB budget is:
 * **Result:** FITS
 
 > **Best combination: Llama-3.2-3B-Instruct at FP16.**
+
+### Solved the prediction questions before applying, you can find it in `lab_README.md` file 
