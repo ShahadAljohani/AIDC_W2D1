@@ -21,3 +21,10 @@
 ## Step 5: 
 
 <img width="1327" height="135" alt="Screenshot (1252)" src="https://github.com/user-attachments/assets/7a95cb63-e118-4f48-8149-fc1ecbf667a2" />
+
+## Optional step: greedy decoding (temp=0) which makes the output determinstic
+
+<img width="1892" height="463" alt="Screenshot (1254)" src="https://github.com/user-attachments/assets/52cd0de7-ad6c-422e-bacf-91db6f157043" />
+
+
+
